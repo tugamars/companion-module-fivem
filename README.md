@@ -1,6 +1,6 @@
 # Fivem Companion Module
 
-1. Make sure you install companion v 3.0
+1. Make sure you install [companion v 3.0](https://bitfocus.io/companion )
 2. Open companion, click on the top right corner icon
 3. On "Developer modules path" set a folder for it. Close Companion (press "Quit")
 4. Download https://github.com/tugamars/companion-module-fivem and put the folder in the previously selected module folder.
